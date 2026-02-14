@@ -1,0 +1,22 @@
+P0]Problem Formulation - State parallelization and/or distribution of an ML algorithm with expectations (speedup, communication cost, response time etc.)
+
+[P1] Design - Solve the problem in [P0] by providing a design (that can be revised later based on feedback from instructors)
+
+[P1] (Revised) Design - Revise the design in [A3] and provide details about implementation aspects (including choices for dev. environment and exec.  platform)
+
+[P2] Implement P1 on the chosen platform
+
+[P3] Test and demonstrate the implementation for correctness as well as performance (say, running time vs. accuracy of prediction) If there is any deviation from expectations, mention why you think the solution didn't meet expectations.
+
+Deliverable:
+
+Link to code in github[to be included in facing sheet]
+code in pdf file.
+report with same format as Assignment earlier. Additional sections on results and discussion is expected.
+
+
+Deliverable:
+
+A pdf file containing P0, P1, P2, P3.
+Format: Like any other technical document including abstract, introduction. literature survey, problem statement, design, conclusion references.
+In the facing sheet, include a table containing name, roll number, contribution(one or phrases) of each team member. (Keep the name of the person who is finally submitting[corresponding author] in bold for operational purposes.)

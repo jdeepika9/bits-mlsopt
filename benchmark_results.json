@@ -1,0 +1,19 @@
+{
+  "dataset": "mnist",
+  "n_samples": 1500,
+  "k": 10,
+  "max_iters": 30,
+  "baseline": {
+    "time_s": 0.12,
+    "inertia": 58782.16,
+    "silhouette": 0.135,
+    "ari": 0.4323
+  },
+  "parallel": {
+    "time_s": 3.27,
+    "inertia": 58782.16,
+    "silhouette": 0.135,
+    "ari": 0.4323
+  },
+  "speedup": 0.04
+}

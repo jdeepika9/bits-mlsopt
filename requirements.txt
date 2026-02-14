@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+reportlab>=4.0.0  # optional; for PDF. If install fails, use HTML output + Print to PDF
+tqdm>=4.65.0
